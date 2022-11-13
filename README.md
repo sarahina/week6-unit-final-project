@@ -1,6 +1,7 @@
 Week6 Unit Final Project
 
-    • For the final project you will be creating an automated version of the classic card game WAR! There are many versions of the game WAR. 
+    • For the final project you will be creating an automated version of the classic card game WAR! 
+    There are many versions of the game WAR. 
     In this version there are only 2 players.
         ◦ You do not need to do anything special when there is a tie in a round.
         

@@ -6,9 +6,12 @@ Week6 Unit Final Project
         ◦ You do not need to accept any user input, when you run your code, the entire game should play out instantly without any user input inside of your browser’s console.
         
 The completed project should, when executed, do the following:
+
  • Deal 26 Cards to each Player from a Deck of 52 cards.
  
  • Iterate through the turns where each Player plays a Card.
+ 
+ • The Player who played the higher card is awarded a point
 
 
  • Deal 26 Cards to each Player from a Deck of 52 cards.

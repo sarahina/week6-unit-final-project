@@ -1,0 +1,23 @@
+{
+  "name": "week6-unit-final-project",
+  "version": "1.0.0",
+  "description": "Week6 Unit Final Project",
+  "main": "war.js",
+  "scripts": {
+    "test": "mocha ./index_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahina/week6-unit-final-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahina/week6-unit-final-project/issues"
+  },
+  "homepage": "https://github.com/sarahina/week6-unit-final-project#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0"
+  }
+}

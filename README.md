@@ -8,6 +8,9 @@ Week6 Unit Final Project
 The completed project should, when executed, do the following:
 
  • Deal 26 Cards to each Player from a Deck of 52 cards.
+
+
+ • Deal 26 Cards to each Player from a Deck of 52 cards.
  • Iterate through the turns where each Player plays a Card.
  • The Player who played the higher card is awarded a point
    ◦ Ties result in zero points for both Players
